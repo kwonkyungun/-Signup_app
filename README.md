@@ -1,7 +1,7 @@
 # Signup_app 회원가입 개인프로젝트 
 # 화면 구조
 # Signln Activity 
-
+![1](https://user-images.githubusercontent.com/139091726/259958827-e9458268-ef2e-4706-a471-ec43bcbe9097.png)
 1. 아이디/비밀번호를 입력하지 않으면 Toast문을 통해 "아이디/비밀번호를 입력하세요" 를 출력하면서 다음페이지로 이동 금지
 2. 아이디 비밀번호를 입력했다면 "로그인 성공" Toast문 메세지 출력
 3. 로그인이 성공하면 putExtra/ intent를 통해 Home 화면에 Id값을 전
