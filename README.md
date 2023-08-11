@@ -16,9 +16,11 @@
 3. 종료 버튼 클릭시 버튼 색 변경
 4. 종료 버튼 클릭 시 signln으로 돌아
 # 화면 구조
-Signln Activity 
+# Signln Activity 
 ![1](https://user-images.githubusercontent.com/139091726/259958827-e9458268-ef2e-4706-a471-ec43bcbe9097.png)
-Signup Activity 
+
+# Signup Activity 
 ![2](https://github.com/kwonkyungun/Signup_app/assets/139091726/642d58c1-ad5c-4530-9da6-2787eaded680)
-Home Activity 
+
+# Home Activity 
 ![3](https://github.com/kwonkyungun/Signup_app/assets/139091726/eee5ecd5-e853-4384-9974-9d8de63753a1)
