@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name ="sample_image">
+        <item>@drawable/facebook</item>
+        <item>@drawable/instergram</item>
+        <item>@drawable/skype</item>
+        <item>@drawable/twiter</item>
+        <item>@drawable/youtube</item>
+    </array>
+
+
+</resources>

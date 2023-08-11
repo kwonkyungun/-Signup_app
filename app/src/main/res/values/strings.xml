@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">prc</string>
+    <string name="home_age">나이 : 25</string>
+    <string name="home_mbti">MBTI : ISFP</string>
+    <string name="home_exit">종료</string>
+    <string name="signup_name">이름</string>
+    <string name="signup_name_input">이름을 입력하세요</string>
+    <string name="signup_id">아이디</string>
+    <string name="signup_id_input">아이디를 입력하세요</string>
+    <string name="signup_pasword">비밀번호</string>
+    <string name="signup_pasword_input">비밀번호를 입력하세요</string>
+    <string name="signup_membership">회원가입</string>
+    <string name="signln_id">아이디</string>
+    <string name="signln_id_input">아이디를 입력하세요.</string>
+    <string name="signln_pasword">비밀번호</string>
+    <string name="signln_pasword_input">비밀번호를 입력하세요.</string>
+    <string name="signln_login">로그인</string>
+    <string name="signln_membership">회원가입</string>
+</resources>

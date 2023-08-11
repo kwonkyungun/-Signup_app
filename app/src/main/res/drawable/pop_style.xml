@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+<!--모서리 동글게    -->
+    <corners
+        android:radius="10dp"/>
+<!--내부 색상-->
+    <solid
+        android:color="#3F51B5"/>
+<!--가로 세로 길이-->
+    <size
+        android:width="100dp"
+        android:height="100dp"/>
+
+</shape>
